@@ -1,0 +1,290 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin Leo",
+      "email": "admin@leo.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Budi Santoso",
+      "email": "budi@email.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Stetoskop Littmann Classic III",
+      "category": "Diagnostik",
+      "price": 850000,
+      "stock": 12,
+      "description": "Stetoskop akustik premium untuk auskultasi jantung dan paru. Dilengkapi dual-sided chestpiece.",
+      "image": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "2",
+      "name": "Termometer Inframerah",
+      "category": "Diagnostik",
+      "price": 125000,
+      "stock": 20,
+      "description": "Termometer non-kontak dengan sensor inframerah. Hasil akurat dalam 1 detik.",
+      "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "3",
+      "name": "Tensimeter Digital",
+      "category": "Diagnostik",
+      "price": 210000,
+      "stock": 11,
+      "description": "Alat ukur tekanan darah digital otomatis untuk lengan atas. Layar LCD besar.",
+      "image": "https://images.unsplash.com/photo-1559757175-7b4c8c47d7d4?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "4",
+      "name": "Pulse Oximeter",
+      "category": "Diagnostik",
+      "price": 95000,
+      "stock": 24,
+      "description": "Alat ukur saturasi oksigen dan detak jantung. Ringan dan mudah dibawa.",
+      "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "5",
+      "name": "Nebulizer Kompresor",
+      "category": "Terapi",
+      "price": 320000,
+      "stock": 6,
+      "description": "Nebulizer untuk terapi pernapasan. Dilengkapi masker dewasa dan anak.",
+      "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "6",
+      "name": "Kursi Roda Lipat",
+      "category": "Mobilitas",
+      "price": 1250000,
+      "stock": 4,
+      "description": "Kursi roda lipat berbahan baja ringan. Kapasitas beban 120kg.",
+      "image": "https://images.unsplash.com/photo-1609715387633-6f6f2d73f3b7?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "7",
+      "name": "Tongkat Kaki Tiga (Tripod)",
+      "category": "Mobilitas",
+      "price": 145000,
+      "stock": 18,
+      "description": "Tongkat bantu jalan dengan 3 kaki penyangga. Tinggi adjustable.",
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "8",
+      "name": "Masker Medis 3 Ply (Box 50pcs)",
+      "category": "Masker",
+      "price": 55000,
+      "stock": 50,
+      "description": "Masker bedah 3 lapis anti percikan. Pack isi 50 buah. Nyaman dipakai seharian.",
+      "image": "https://images.unsplash.com/photo-1584634731339-252e581abfc5?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "9",
+      "name": "Masker N95 (Box 20pcs)",
+      "category": "Masker",
+      "price": 120000,
+      "stock": 30,
+      "description": "Masker respirator N95 filtrasi 95%. Pack isi 20 buah.",
+      "image": "https://images.unsplash.com/photo-1586942593568-29361efbe68b?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "10",
+      "name": "Hand Sanitizer 500ml",
+      "category": "Hygiene",
+      "price": 45000,
+      "stock": 40,
+      "description": "Hand sanitizer alkohol 70%. Kemasan pump 500ml.",
+      "image": "https://images.unsplash.com/photo-1584744982491-665216d95f8b?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "11",
+      "name": "Sarung Tangan Medis Nitril (Box 100pcs)",
+      "category": "Hygiene",
+      "price": 85000,
+      "stock": 35,
+      "description": "Sarung tangan nitril non-steril. Ukuran M. Bebas lateks.",
+      "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "12",
+      "name": "Timbangan Badan Digital",
+      "category": "Diagnostik",
+      "price": 175000,
+      "stock": 10,
+      "description": "Timbangan digital dengan layar LED. Kapasitas 180kg. Tempered glass.",
+      "image": "https://images.unsplash.com/photo-1629715348329-8e84a5675415?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "13",
+      "name": "Infusion Pump",
+      "category": "Terapi",
+      "price": 4500000,
+      "stock": 3,
+      "description": "Pompa infus digital dengan kontrol aliran presisi. Cocok untuk rumah sakit.",
+      "image": "https://images.unsplash.com/photo-1551190822-a9333d879b1f?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "14",
+      "name": "Tabung Oksigen Portable 1L",
+      "category": "Terapi",
+      "price": 750000,
+      "stock": 6,
+      "description": "Tabung oksigen portabel 1 liter lengkap dengan regulator dan masker.",
+      "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "15",
+      "name": "Bed Pasien Manual",
+      "category": "Mobilitas",
+      "price": 3500000,
+      "stock": 2,
+      "description": "Bed pasien 3 posisi dengan rangka besi. Dilengkapi roda kunci.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "16",
+      "name": "Kruk Aksila (Sepasang)",
+      "category": "Mobilitas",
+      "price": 280000,
+      "stock": 8,
+      "description": "Kruk ketiak adjustable tinggi. Bahan aluminium ringan. Sepasang.",
+      "image": "https://images.unsplash.com/photo-1631567091148-8cec176e89d8?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "17",
+      "name": "Alat Cek Gula Darah",
+      "category": "Diagnostik",
+      "price": 165000,
+      "stock": 15,
+      "description": "Glukometer lengkap dengan strip dan lancet. Hasil cepat 5 detik.",
+      "image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "18",
+      "name": "Westafel Portable",
+      "category": "Hygiene",
+      "price": 450000,
+      "stock": 7,
+      "description": "Westafel portable dengan tangki air 10L. Cocok untuk homecare.",
+      "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "19",
+      "name": "Kursi Mandi Pasien",
+      "category": "Mobilitas",
+      "price": 385000,
+      "stock": 6,
+      "description": "Kursi mandi anti-slip dengan sandaran. Bahan plastik berkualitas.",
+      "image": "https://images.unsplash.com/photo-1576411997890-4b3b4e43c2c1?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "20",
+      "name": "Tensimeter Jarum (Manual)",
+      "category": "Diagnostik",
+      "price": 135000,
+      "stock": 12,
+      "description": "Tensimeter manual dengan stetoskop. Untuk pemeriksaan akurat.",
+      "image": "https://images.unsplash.com/photo-1559757175-7b4c8c47d7d4?w=400&h=300&fit=crop"
+    }
+  ],
+  "orders": [
+    {
+      "id": "DduUf0IWV3E",
+      "user_id": "2",
+      "method": "takeaway",
+      "address": "-",
+      "total": 1460000,
+      "status": "completed",
+      "created_at": "2026-05-05T10:10:12.678829"
+    },
+    {
+      "id": "KKX1QJdpp7A",
+      "user_id": "2",
+      "method": "delivery",
+      "address": "jl patriot",
+      "total": 2020000,
+      "status": "completed",
+      "created_at": "2026-05-05T10:31:46.144081"
+    },
+    {
+      "id": "GKByVxCPYks",
+      "user_id": "2",
+      "method": "takeaway",
+      "address": "-",
+      "total": 1170000,
+      "status": "completed",
+      "created_at": "2026-05-05T10:40:04.070788"
+    },
+    {
+      "id": "TksSWDDUHp8",
+      "user_id": "2",
+      "method": "delivery",
+      "address": "jl. patriot",
+      "total": 95000,
+      "status": "completed",
+      "created_at": "2026-05-05T12:51:49.220101"
+    }
+  ],
+  "order_items": [
+    {
+      "id": "pLPRm5rFu4I",
+      "order_id": "DduUf0IWV3E",
+      "product_id": "3",
+      "qty": 1,
+      "price": 210000
+    },
+    {
+      "id": "NFKTk9g2STs",
+      "order_id": "DduUf0IWV3E",
+      "product_id": "6",
+      "qty": 1,
+      "price": 1250000
+    },
+    {
+      "id": "4Tyy1Z4l7eg",
+      "order_id": "KKX1QJdpp7A",
+      "product_id": "1",
+      "qty": 2,
+      "price": 850000
+    },
+    {
+      "id": "l7W_SZ0IfgI",
+      "order_id": "KKX1QJdpp7A",
+      "product_id": "5",
+      "qty": 1,
+      "price": 320000
+    },
+    {
+      "id": "6UGKxHsY7ZE",
+      "order_id": "GKByVxCPYks",
+      "product_id": "1",
+      "qty": 1,
+      "price": 850000
+    },
+    {
+      "id": "NM3k05WZkyo",
+      "order_id": "GKByVxCPYks",
+      "product_id": "5",
+      "qty": 1,
+      "price": 320000
+    },
+    {
+      "id": "NX18JyctKds",
+      "order_id": "TksSWDDUHp8",
+      "product_id": "4",
+      "qty": 1,
+      "price": 95000
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
